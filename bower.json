@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "authors": [
+    "José Luiz Martins Oliveira <martinsmanager@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.4.0",
+    "bootstrap": "~3.3.5",
+    "FitText.js": "~1.2.0",
+    "font-awesome": "fontawesome#~4.4.0",
+    "jquery": "~2.1.4",
+    "jquery-easing-original": "~1.3.2",
+    "wow": "~1.1.2"
+  }
+}
