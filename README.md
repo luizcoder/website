@@ -2,7 +2,7 @@
 
 Meu web site pessoal, construido com bootstrap.
 
-[luizcoder.com.br](luizcoder.com.br)
+[luizcoder.com.br](http://luizcoder.com.br)
 
 License
 ----
