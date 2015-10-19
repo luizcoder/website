@@ -55,6 +55,17 @@ p {
     background-color: #337ab7;
 }
 
+
+.social a {
+    color: #fff;
+
+}
+
+.social a:hover,
+.social a:focus {
+    color: #272727;
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
@@ -243,6 +254,11 @@ header .header-content .header-content-inner p {
     margin-top: 0;
 }
 
+.sub-section-heading{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 15pt;
+}
 .service-box {
     margin: 50px auto 0;
     max-width: 400px;
@@ -473,21 +489,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
-}
-
-
-.btn-facebook:hover{
-    color: #2D9EFF;
-}
-
-.btn-twitter:hover{
-    color: #2D9EFF;
-}
-
-.btn-google-plus:hover{
-    color: #2D9EFF;
-}
-
-.btn-github:hover{
-    color: #2D9EFF;
 }
